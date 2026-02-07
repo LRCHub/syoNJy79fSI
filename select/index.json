@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Delulu",
+  "base_artist": "KiiiKiii",
+  "createdAt": "2026-02-07T04:49:14.534441Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DELULU",
+      "artist": "Zack Tabudlo",
+      "has_synced": true,
+      "path": "select/01_DELULU_Zack_Tabudlo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "delulu",
+      "artist": "Lexie Liu",
+      "has_synced": true,
+      "path": "select/02_delulu_Lexie_Liu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "delulu (Instrumental)",
+      "artist": "Lexie Liu",
+      "has_synced": true,
+      "path": "select/03_delulu_(Instrumental)_Lexie_Liu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DELULU",
+      "artist": "Zack Tabudlo",
+      "has_synced": true,
+      "path": "select/04_DELULU_Zack_Tabudlo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "delulu",
+      "artist": "Lexie Liu",
+      "has_synced": true,
+      "path": "select/05_delulu_Lexie_Liu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "waiting 4 u (delulu)",
+      "artist": "Shoti",
+      "has_synced": false,
+      "path": "select/06_waiting_4_u_(delulu)_Shoti.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "delulu",
+      "artist": "Jamal",
+      "has_synced": true,
+      "path": "select/07_delulu_Jamal.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Delulu",
+      "artist": "Aneno",
+      "has_synced": true,
+      "path": "select/08_Delulu_Aneno.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Delulu",
+      "artist": "Florentina",
+      "has_synced": false,
+      "path": "select/09_Delulu_Florentina.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "delulu",
+      "artist": "NESYA",
+      "has_synced": true,
+      "path": "select/10_delulu_NESYA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "delulu",
+      "artist": "JaeMeez",
+      "has_synced": true,
+      "path": "select/11_delulu_JaeMeez.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "DELULU DANCE",
+      "artist": "King",
+      "has_synced": false,
+      "path": "select/12_DELULU_DANCE_King.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "KING - DELULU DANCE  (Monopoly Moves)",
+      "artist": "King",
+      "has_synced": false,
+      "path": "select/13_KING_-_DELULU_DANCE_(Monopoly_Moves)_King.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Delulu",
+      "artist": "aruma",
+      "has_synced": false,
+      "path": "select/14_Delulu_aruma.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "DELULU (Acoustic Version)",
+      "artist": "Lem",
+      "has_synced": true,
+      "path": "select/15_DELULU_(Acoustic_Version)_Lem.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Delulu",
+      "artist": "Ghoody",
+      "has_synced": true,
+      "path": "select/16_Delulu_Ghoody.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Delulu",
+      "artist": "Florentina",
+      "has_synced": true,
+      "path": "select/17_Delulu_Florentina.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Delulu",
+      "artist": "KiiiKiii",
+      "has_synced": false,
+      "path": "select/pl_01_Delulu_KiiiKiii.txt"
+    }
+  ]
+}
